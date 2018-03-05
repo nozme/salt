@@ -104,12 +104,12 @@ configuration:
       - db1:
           devices:
             network:
-              Network Adapter 1:
+              Network adapter 1:
                 mac: '44:44:44:44:44:41'
       - db2:
           devices:
             network:
-              Network Adapter 1:
+              Network adapter 1:
                 mac: '44:44:44:44:44:42'
 
 
